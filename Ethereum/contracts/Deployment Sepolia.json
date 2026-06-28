@@ -1,6 +1,0 @@
-{
-  "network": "Ethereum Sepolia",
-  "proxy": "0x4F43855026a64afCf594d16fDF0713D262C81ee3",
-  "implementation": "0x1a5F017651032882A8919388A11c36B1CA21aB06",
-  "type": "UUPS"
-}
